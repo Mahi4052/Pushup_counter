@@ -1,3 +1,4 @@
+# Pushup_counter
 -An AI Project.
 
 -A program using Mediapipe and OpenCV to count the number of Push Ups done by the person in front of camera.
