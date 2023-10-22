@@ -1,7 +1,5 @@
 # Perfect Pushup Prediction & counter
-* An AI Project.
-
-* A program using Mediapipe and OpenCV.
+* A software program created utilizing Mediapipe and OpenCV.
 
 * The main purpose of this project is to prdeict correct push up and increment the count done by a person in front of camera.
 
